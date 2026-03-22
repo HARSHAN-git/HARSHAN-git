@@ -1,7 +1,7 @@
-# Hi 👋 I'm Harshan
+# Hi 👋 I'm Harshan R
 
-🎓 CSE Student | 🤖 ML Enthusiast | 💻 Full-Stack Learner
-Passionate about building AI-powered applications and Chrome extensions.
+🎓 CSE Student | 🤖 ML Enthusiast 
+Passionate about building AI-powered applications.
 
 ---
 
@@ -57,15 +57,25 @@ Tech:
 
 ---
 
-### ✋ Hand Sign Snake Game
+### 🤟 Indian Sign Language Detection
 
-Snake game controlled using hand gestures.
+An AI-based system that recognizes Indian Sign Language hand gestures and converts them into meaningful text in real time.
 
-Tech:
+Tech Used
 
-* OpenCV
-* TensorFlow
-* Python
+Python
+OpenCV
+MediaPipe
+Scikit-learn / TensorFlow
+NumPy
+
+Features
+
+Real-time hand sign detection
+Multiple gesture classification
+Webcam-based prediction
+Lightweight ML model
+User-friendly interface
 
 ---
 
@@ -81,19 +91,10 @@ Tech:
 
 ---
 
-## 📊 GitHub Stats
-
----
-
-## 🔥 Top Languages
-
----
-
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/HARSHAN-git
-* LinkedIn: (add your linkedin)
+* LinkedIn: https://www.linkedin.com/in/harshan-r-119459290/
 
 ---
 
-⭐ From Harshan
